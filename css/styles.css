@@ -270,7 +270,10 @@ Navbar
   .nav-icon {
     font-size: 1.5rem;
     margin-right: 0.7rem;
-    color: var(--clr-primary-5);
+    color: var(--clr-primary-5);`
+  }
+  .navbar {
+    padding: 0.6rem 2rem;
   }
 }
 /*
